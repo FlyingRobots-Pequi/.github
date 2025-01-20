@@ -2,7 +2,7 @@
 
 Bem-vindo ao repositório oficial da equipe **Flying Robots** do **Núcleo de Robótica Pequi Mecânico**! Somos uma equipe dedicada ao desenvolvimento de drones autônomos e inteligentes para aplicações em ambientes complexos, como inspeção de dutos e operações aéreas avançadas. 🚀
 
-![drone](./images/drone.jpeg)
+![drone](./../images/drone.jpeg)
 
 ---
 
